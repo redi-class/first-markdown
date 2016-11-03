@@ -3,6 +3,5 @@ learning markdown
 
 _this is for learning purposese_
 
-**bold is double star**
-
+## header 2
 
